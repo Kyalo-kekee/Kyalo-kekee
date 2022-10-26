@@ -1,4 +1,4 @@
-#[![wakatime](https://wakatime.com/badge/user/2573d11d-8fce-4d30-b2d3-4181d707f20c.svg)](https://wakatime.com/@2573d11d-8fce-4d30-b2d3-4181d707f20c)
+[![wakatime](https://wakatime.com/badge/user/2573d11d-8fce-4d30-b2d3-4181d707f20c.svg)](https://wakatime.com/@2573d11d-8fce-4d30-b2d3-4181d707f20c)
 
 Developing all day all time.
 
