@@ -2,7 +2,7 @@
 
 # <img src="https://img.icons8.com/color/48/000000/github-2.png"/> [Alex Kekee](https://github.com/kyalo-kekee)
 
-[![Linkedin Badge](https://img.shields.io/badge/-alex-kekee-1694b6262-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/alex-kekee-1694b6262/)
+[![Linkedin Badge](https://img.shields.io/badge/-likedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/alex-kekee-1694b6262/)
 [![Website Badge](https://img.shields.io/badge/-isikeke.me-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://isikeke.me)](https://isikeke.me)
 [![Twitter Badge](https://img.shields.io/badge/-yourtwitter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/KekeeAlex/)](https://twitter.com/KekeeAlex/)
 [![StackOverflow Badge](https://img.shields.io/badge/-yourstackoverflow-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/yourstackoverflow)](https://stackoverflow.com/users/18906873/alex-kekee)
