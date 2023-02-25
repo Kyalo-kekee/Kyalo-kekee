@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yourlinkedin/)](https://www.linkedin.com/in/alex-kekee-1694b6262/)
 [![Website Badge](https://img.shields.io/badge/-isikeke.me-47CCCC?style=flat-square&logo=Google-Chrome&logoColor=white&link=https://isikeke.me)](https://isikeke.me)
 [![Twitter Badge](https://img.shields.io/badge/-twiter-1DA1F2?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/KekeeAlex/)](https://twitter.com/KekeeAlex/)
-[![StackOverflow Badge](https://img.shields.io/badge/-yourstackoverflow-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/yourstackoverflow)](https://stackoverflow.com/users/18906873/alex-kekee)
+[![StackOverflow Badge](https://img.shields.io/badge/-tackoverflow-FE7A16?style=flat-square&logo=StackOverflow&logoColor=white&link=https://stackoverflow.com/users/18906873/alex-kekee)](https://stackoverflow.com/users/18906873/alex-kekee)
 [![GitHub followers](https://img.shields.io/github/followers/kyalo-kekee.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/kyalo-kekee?tab=followers)
 
 ## 👋 Hello there! 
